@@ -39,7 +39,7 @@ Automatically send personalized follow-up emails to leads within 60 seconds of f
 
 ## Demo
 
-[Watch the demo video](link-to-loom-gif-here)
+[Watch the demo video](/Users/patrickamin/Downloads/ScreenRecording2026-05-03at11.00.10PM-ezgif.com-video-to-gif-converter.gif)
 
 ## Use Cases
 
@@ -80,7 +80,7 @@ Automatically send personalized follow-up emails to leads within 60 seconds of f
 
 Patrick Amin — AI Automation Developer  
 Cairo, Egypt  
-📧 patrick.ebeid@gmail.com  
+📧 patrick_amin@yahoo.com  
 🔗 [GitHub](https://github.com/patrickamin) | [Upwork](https://upwork.com)
 
 ---

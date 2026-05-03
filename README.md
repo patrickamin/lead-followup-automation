@@ -39,7 +39,7 @@ Automatically send personalized follow-up emails to leads within 60 seconds of f
 
 ## Demo
 
-[Watch the demo video](/Users/patrickamin/Downloads/ScreenRecording2026-05-03at11.00.10PM-ezgif.com-video-to-gif-converter.gif)
+![Demo](demo.gif)
 
 ## Use Cases
 
